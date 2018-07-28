@@ -1,7 +1,7 @@
 <p>
   The project is an implementation of the attack presented in <a href="https://www.ieee-security.org/TC/SP2017/papers/207.pdf">this       article.</a> <br>
   A sequence diagram that describes the attack:
-<img src="https://www.bleepstatic.com/images/news/u/986406/Research/PRMitM.png" height="400" width="800"> <br> <br>
+<img src="https://www.bleepstatic.com/images/news/u/986406/Research/PRMitM.png" height="400" width="800"> <br>
 </p>
 
 -The user registers to the site <br>
