@@ -18,7 +18,7 @@ Similarly, we could reset the user's password with the email address and not wit
 <p>
   As one can notice, the SMS message contains the words "Your Facebook password reset code is ...".
   This can immediately cause the user to suspect because he didn't have any interaction with Facebook. <br>
-  One possible solution is to interept the sms and steal the code, and even bofore the user understands that he has been cheated, change his password. <br>
+  One possible solution is to intercept the sms and steal the code, and even bofore the user understands that he has been cheated, change his password. <br>
   We can also notice that the above article's authors claim that most of the users do not read the entire sms but just read the code.
 </p>
 
