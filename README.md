@@ -27,7 +27,7 @@ Similarly, we could reset the user's password with the email address and not wit
   <h4>Required Libraries:</h4>
   <ul>
     <li> Flask </li>
-    <li> Selenium> </li>
+    <li> Selenium </li>
   </ul>
 </p>
 
