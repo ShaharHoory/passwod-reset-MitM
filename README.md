@@ -5,20 +5,20 @@
 </p>
 
 -The user registers to the site <br>
--They recieves an sms with authorization code <br>
--They inserts the code to the form <br>
--Their Facebook password will be changed.
+-He recieves a sms with authorization code <br>
+-He inserts the code to the form <br>
+-His Facebook password is changed.
 
 <p>
 <h5>Assumption:</h5>
-There is only one Facebook account relates to the inserted phone number. (Facebook allows the same phone number to be related to more than one account) <br>
-Similarly, we could reset the user's password with the email address and not with the phone number (In Facebook each account has a unique email address).
+There is exactly one Facebook account related to the inserted phone number. (Facebook allows the same phone number to be related to more than one account) <br>
+We could reset the user's password with the email  address in the same fashion (In Facebook each account has a unique email address).
 </p>
 
 <p>
   As one can notice, the SMS message contains the words "Your Facebook password reset code is ...".
   This can immediately cause the user to suspect because he didn't have any interaction with Facebook. <br>
-  One possible solution is to intercept the sms and steal the code, and even bofore the user understands that he has been cheated, to change his password. <br>
+  One possible solution is to intercept the sms and steal the code, thus taking his password before he realizes he has been cheated. <br>
   We can also notice that the above article's authors claim that most of the users do not read the entire sms but just read the code.
 </p>
 
